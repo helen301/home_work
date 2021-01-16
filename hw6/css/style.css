@@ -1,0 +1,43 @@
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 1920px;
+    height: 420px;
+    background: #121116 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.text {
+    margin-top: 200px;
+    height: 50px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+hr {
+    margin:auto;
+    width: 200px;
+    height: 0px;
+    background: #FFFFFF;
+}
+
+.icons {
+    margin:auto;
+    width: 200px;
+    height: 300px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.footer {
+    color: #FFFFFF;
+    width: 220px;
+    margin: auto;
+}
+
+span {
+    color: #6563d4;
+}

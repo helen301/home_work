@@ -1,0 +1,38 @@
+.col-9 {
+    background-image: url('/img/Photo_1.webp');
+    width: 740px;
+    height: 540px;
+}
+
+.col-4 {
+    background-color: chartreuse;
+    margin-right: 67px;
+    margin-top: 14px;
+    width: 360px;
+}
+
+.col-5 {
+    background-color: coral;
+    margin-left: 377px;
+    margin-top: -62px;
+    width: 360px;
+}
+
+h1 {
+    color: #818181;
+    font-size: 13px;
+}
+
+h2 {
+    color: #1D1D1D;
+    font-size: 13px;
+}
+
+h3 {
+    color: #1D1D1D;
+    font-size: 13px;
+}
+
+.col-3 {
+    background-color: chocolate;
+}

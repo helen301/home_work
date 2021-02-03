@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.wrap {
+    background-image: url('/img/bg.png');
+}
+
+.first-text {
+    display:inline;
+    padding: 5px 10px;
+    margin: 0 5px;
+    min-height: 50px;
+}
+
+.right-text {
+    display: inline-block;
+}
+
+h1 {
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    min-width: 100vh;
+    min-height: 80vh;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+h2 {
+    text-align: right;
+}
+
+.info {
+    padding: 10px 10px 10px 10px;
+}
